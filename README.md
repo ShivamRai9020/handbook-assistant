@@ -2,7 +2,7 @@
 
 A local, private Q&A chatbot that answers questions about a company handbook, with citations, built from scratch with RAG (retrieval-augmented generation). It runs entirely on your machine with [Ollama](https://ollama.com): no API keys and no data leaving your laptop.
 
-![Handbook Assistant screenshot](screenshot.png)
+![Handbook Assistant screenshot](Screenshot.png)
 
 ## What it does
 - Splits the handbook into chunks by section and embeds them with `nomic-embed-text`
