@@ -1,0 +1,5 @@
+Data Scientist - Flipkart
+Requirements:
+* Python, SQL
+* Experience with PyTorch or TensorFlow
+* 2-4 yrs
